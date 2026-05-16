@@ -8,7 +8,7 @@ A web-based application that detects vegetables in uploaded images using OpenCV 
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
-
+![Result](result.png)
 ## ✨ Features
 
 - **🖼️ Image Upload** — Drag-and-drop or click to upload vegetable images with real-time preview
