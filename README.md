@@ -5,7 +5,6 @@ A web-based application that detects vegetables in uploaded images using OpenCV 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-3.0+-green?logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.9+-red?logo=opencv&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
 ![Result](result.png)
