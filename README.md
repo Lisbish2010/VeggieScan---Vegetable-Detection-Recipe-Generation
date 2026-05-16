@@ -38,7 +38,7 @@ A web-based application that detects vegetables in uploaded images using OpenCV 
 
 | Layer         | Technology                          |
 |---------------|-------------------------------------|
-| **Backend**   | Python, Flask, Gunicorn             |
+| **Backend**   | Python, Flask             |
 | **Detection** | OpenCV, NumPy                       |
 | **Recipes**   | Kaggle Food.com Dataset, Pandas     |
 | **Frontend**  | HTML5, Tailwind CSS, Vanilla JS     |
