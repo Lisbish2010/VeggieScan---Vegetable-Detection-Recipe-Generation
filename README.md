@@ -56,7 +56,7 @@ A web-based application that detects vegetables in uploaded images using OpenCV 
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/veggiescan.git
+git clone https://github.com/<Lisbish2010>/veggiescan.git
 cd veggiescan
 
 # Option 1: Use the start script (recommended)
